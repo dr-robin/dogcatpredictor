@@ -5,11 +5,11 @@ The predictor model is based on a convoluted neural network built using keras in
 
 To run the app locally:
 
-git clone git@github.com:dr-robin/dogcatpredictor.git
-cd ./dogcatpredictor
-export FLASK_APP=app.py
-flask run
-Open a browser at http://127.0.0.1:5000/ 
+git clone git@github.com:dr-robin/dogcatpredictor.git  
+cd ./dogcatpredictor  
+export FLASK_APP=app.py  
+flask run  
+Open a browser at http://127.0.0.1:5000/   
 
 # Credits
 
