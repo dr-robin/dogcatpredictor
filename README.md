@@ -1,9 +1,12 @@
-# Dog or Cat
+# Dog or cat predictor
 
 This is a simple Flask app to predict if an image is a cat or a dog.
 The predictor model is based on a convoluted neural network built using keras in tensorflow.
 
 The model took 48 hours to train. The accuracy was 98%.
+
+To try it on the web visit:  
+https://dogcatpredictor.herokuapp.com/  
 
 To run the app locally:
 
